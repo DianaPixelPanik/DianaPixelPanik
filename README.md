@@ -100,11 +100,4 @@ Mobile & social game art, branding, UI layouts, illustrations.
 - **C#** · IT ProLab OÜ *(May 2022)*
 - **Pharmacy** · Oles Honchar Dnipro National University *(2014–2019)*
 
----
 
-## Currently
-
-- 🔨 Redesigning [eluliin.ee](https://eluliin.ee) — emotional support NGO in Estonia
-- 🚀 Building products under **[PixelPanik](https://github.com/pixelpanik)**
-- 📚 Studying **Java** + **AI for Business**
-- 👀 Looking for interesting **backend / full-stack / design** projects
