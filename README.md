@@ -1,8 +1,6 @@
 # Hi, I'm Diana 👋
 
 **Designer × Developer × Founder of [PixelPanik](https://github.com/DianaPixelPanik)**  
-Based in Tallinn, Estonia 🇪🇪
-
 ---
 
 ## 🟢 Open to projects — let's work together
@@ -12,6 +10,7 @@ If you need a designer who can also build — I'm your person.
 
 📩 **[dianaart1997@gmail.com](mailto:dianaart1997@gmail.com)**
 
+  💼 **[linkedin.com/in/diana-smirnova97](https://www.linkedin.com/in/diana-smirnova97/)**
 ---
 
 ## What I do
@@ -40,9 +39,7 @@ If you need a designer who can also build — I'm your person.
 
 - 🔨 Redesigning [eluliin.ee](https://eluliin.ee) — emotional support NGO in Estonia
 - 🚀 Building products under **PixelPanik**
-- 👀 Looking for interesting **design + dev projects**
-
----
+- 👀 Looking for interesting **design + dev projects**---
 
 *Available for freelance · contract · long-term collaboration*Here are some ideas to get you started:
 
